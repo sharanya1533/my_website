@@ -61,6 +61,6 @@ https://<your-github-username>.github.io/<repository-name>/
 
 If you'd like to connect or collaborate, feel free to reach out via:
 
-LinkedIn: [Your LinkedIn Profile Link]
+LinkedIn: https://www.linkedin.com/in/sharanya-busetty-267711376/
 
-Email: [Your Email Address]
+Email: sharanya.25bcs10580@sst.scaler.com
